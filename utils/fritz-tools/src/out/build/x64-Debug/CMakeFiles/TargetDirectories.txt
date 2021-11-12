@@ -1,0 +1,8 @@
+C:/Users/piotr/OneDrive/Desktop/RooterSource-main/package/utils/fritz-tools/src/out/build/x64-Debug/CMakeFiles/fritz_cal_extract.dir
+C:/Users/piotr/OneDrive/Desktop/RooterSource-main/package/utils/fritz-tools/src/out/build/x64-Debug/CMakeFiles/fritz_tffs_read.dir
+C:/Users/piotr/OneDrive/Desktop/RooterSource-main/package/utils/fritz-tools/src/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/piotr/OneDrive/Desktop/RooterSource-main/package/utils/fritz-tools/src/out/build/x64-Debug/CMakeFiles/fritz_tffs_nand_read.dir
+C:/Users/piotr/OneDrive/Desktop/RooterSource-main/package/utils/fritz-tools/src/out/build/x64-Debug/CMakeFiles/install/local.dir
+C:/Users/piotr/OneDrive/Desktop/RooterSource-main/package/utils/fritz-tools/src/out/build/x64-Debug/CMakeFiles/install.dir
+C:/Users/piotr/OneDrive/Desktop/RooterSource-main/package/utils/fritz-tools/src/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/piotr/OneDrive/Desktop/RooterSource-main/package/utils/fritz-tools/src/out/build/x64-Debug/CMakeFiles/list_install_components.dir

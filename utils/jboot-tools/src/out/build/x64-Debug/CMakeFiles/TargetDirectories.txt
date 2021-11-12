@@ -1,0 +1,6 @@
+C:/Users/piotr/OneDrive/Desktop/RooterSource-main/package/utils/jboot-tools/src/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/piotr/OneDrive/Desktop/RooterSource-main/package/utils/jboot-tools/src/out/build/x64-Debug/CMakeFiles/jboot_config_read.dir
+C:/Users/piotr/OneDrive/Desktop/RooterSource-main/package/utils/jboot-tools/src/out/build/x64-Debug/CMakeFiles/install/local.dir
+C:/Users/piotr/OneDrive/Desktop/RooterSource-main/package/utils/jboot-tools/src/out/build/x64-Debug/CMakeFiles/install.dir
+C:/Users/piotr/OneDrive/Desktop/RooterSource-main/package/utils/jboot-tools/src/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/piotr/OneDrive/Desktop/RooterSource-main/package/utils/jboot-tools/src/out/build/x64-Debug/CMakeFiles/list_install_components.dir
